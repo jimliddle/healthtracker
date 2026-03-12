@@ -51,7 +51,7 @@ Since there is no backend or build step required, running the app is incredibly 
 
 Simply download the webpage and double click to load or visit the hosted version (all state stored in your browser):
 
-
+https://jimliddle.github.io/healthtracker/
 
 
 📥 Importing Withings Data
