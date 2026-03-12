@@ -4,6 +4,9 @@ A privacy-first, fully responsive, and offline-capable single-page application (
 
 Because this app uses your browser's native IndexedDB, all your health data remains completely private and is stored locally on your device. No cloud, no tracking, no backend required.
 
+<img width="915" height="510" alt="health tracker screenshot" src="https://github.com/user-attachments/assets/04cab9e6-d72e-4bc8-a4f5-6c6dfb3c2c89" />
+
+
 ✨ Features
 
 Comprehensive Logging: Record Blood Pressure (Systolic/Diastolic), Heart Rate (BPM), and Weight (kg) with date and time stamps.
